@@ -250,7 +250,7 @@ def i():
     
     
     jalan("\033[1;37m\t  USE OUR COUNTRY CODE  ")
-    jalan('\033[1;36m     \t     ✔AFG CODES\n     \033[1;33m9370, \033[1;33m9377 ,\033[1;33m9378 ,\033[1;33m9370  ...\033[0;97m')
+    jalan('\033[1;36m     \t     ✔AFG CODES\n     \033[1;33m9379, \033[1;33m9377 ,\033[1;33m9378 ,\033[1;33m9370  ...\033[0;97m')
     jalan('\033[1;32m============================================')
     jalan('\033[1;36m     \t     ✔PAK CODES\n     \033[1;33m92301, \033[1;33m92345 ,\033[1;33m92300 ,\033[1;33m92306  ...\033[0;97m')
     jalan('\033[1;32m============================================')
@@ -345,7 +345,7 @@ def rcrack(uid,pwx,tl):
             else:
                 continue
         loop+=1
-        sys.stdout.write('\r     %s[NASRATt] [%s/%s]  OK:- %s  CP:- %s \r'%(H,loop,tl,len(oks),len(cps))),
+        sys.stdout.write('\r     %s[NASRAT🖤💚❤] [%s/%s]  OK:- %s  CP:- %s \r'%(H,loop,tl,len(oks),len(cps))),
         sys.stdout.flush()
     except:
         pass
